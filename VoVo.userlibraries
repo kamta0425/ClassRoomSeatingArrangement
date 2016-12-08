@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-java-5.1.38-bin" />
+  <library name="poi-3.14-20160307">
+    <archive path="/Users/vicky/Desktop/poi-3.14/poi-3.14-20160307.jar" />
+  </library>
+  <library name="poi-ooxml-3.14-20160307">
+    <archive path="/Users/vicky/Desktop/poi-3.14/poi-ooxml-3.14-20160307.jar" />
+  </library>
+  <library name="poi-ooxml-schemas-3.14-20160307">
+    <archive path="/Users/vicky/Desktop/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar" />
+  </library>
+  <library name="poi-scratchpad-3.14-20160307">
+    <archive path="/Users/vicky/Desktop/poi-3.14/poi-scratchpad-3.14-20160307.jar" />
+  </library>
+  <library name="xmlbeans-2.6.0">
+    <archive path="/Users/vicky/Desktop/poi-3.14/ooxml-lib/xmlbeans-2.6.0.jar" />
+  </library>
+</eclipse-userlibraries>
+
